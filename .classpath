@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="currency-conversion-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-conversion-service/src/test/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/main/java"/>
+	<classpathentry kind="src" path="currency-exchange-service/src/test/java"/>
+	<classpathentry kind="src" path="eureka-naming-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="eureka-naming-server/src/main/java"/>
+	<classpathentry kind="src" path="eureka-naming-server/src/test/java"/>
+	<classpathentry kind="src" path="limit-service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="limit-service/src/main/java"/>
+	<classpathentry kind="src" path="limit-service/src/test/java"/>
+	<classpathentry kind="src" path="microserivces-app/.mvn/wrapper"/>
+	<classpathentry kind="src" path="microserivces-app/src/main/java"/>
+	<classpathentry kind="src" path="microserivces-app/src/test/java"/>
+	<classpathentry kind="src" path="spring-cloud-config-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="spring-cloud-config-server/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-config-server/src/test/java"/>
+	<classpathentry kind="src" path="spring-cloud-properties"/>
+	<classpathentry kind="src" path="zuul-api-gateway-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="zuul-api-gateway-server/src/main/java"/>
+	<classpathentry kind="src" path="zuul-api-gateway-server/src/test/java"/>
+	<classpathentry kind="output" path="currency-conversion-service/target/classes"/>
+</classpath>
